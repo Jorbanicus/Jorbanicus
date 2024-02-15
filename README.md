@@ -1,6 +1,6 @@
 # Jorbanicus
 
-If I could, I would machine learn the world. <br><br>Currently interested in algorithms surrounding data science and trading analysis. Started my journey in August 2023 by doing side projects for my internship company. Tenancious and willing to work my ass off. All of my repos are small projects. Given a chance, I would like to explore the different use cases that the trio of Blockchain, AI and Cloud could work together in.<br> 
+Currently interested in algorithms surrounding data science and trading analysis. Started my journey in August 2023 by doing side projects for my internship company. Tenancious and willing to work my ass off. All of my repos are small projects. Given a chance, I would like to explore the different use cases that the trio of Blockchain, AI and Cloud could work together in.<br> 
 
 
 # 💻 Tech Stack:
